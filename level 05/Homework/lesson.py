@@ -1,0 +1,14 @@
+num = 10
+num1 = 2
+num2 = 15
+num3 = 20
+num4 = 24
+num5 = 11
+num6 = 23
+num7 = 25
+num8 = 22
+num9 = 16
+print(num9 + num2)
+print(num4 - num5)
+print(num3 * num2)
+print(num7 / num5)
